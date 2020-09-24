@@ -1,0 +1,7 @@
+readme.txt
+*.jpeg
+ConsoleApplication1/**
+!ConsoleApplication1/.vs
+!ConsoleApplication1/ConsoleApplication1
+!ConsoleApplication1/**/*.cpp
+!ConsoleApplication1/**/*.h
